@@ -1,0 +1,24 @@
+{
+  "name": "backbonejs_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/js/scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preeti86/Backbonejs_blogmaker.git"
+  },
+  "author": "Preeti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preeti86/Backbonejs_blogmaker/issues"
+  },
+  "homepage": "https://github.com/Preeti86/Backbonejs_blogmaker#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.22"
+  }
+}
